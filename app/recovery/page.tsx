@@ -1,3 +1,3 @@
 export default function Page() {
-  return <p>Reovery Page</p>;
+  return <p>Recovery Page</p>;
 }
